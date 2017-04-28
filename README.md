@@ -1,18 +1,18 @@
 # Quant EOD Stocks
 
-This is part of a quant analysis project based on fundamentals and Market data for approximately 25,000+ stocks traded around the world.
+This is part of a Quant project based on real scenarios and Market data for 25,000+ stocks traded around the world.
 
-## Features:
+> ### Features:
 
 TODO:
 
-## Technical Specs:
+> ### Technical Specs:
 
 - Python 3.6
 - Mac OS X and Linux
 - SQL and NoSQL
 
-## Instructions and Usage:
+> ### Instructions and Usage:
 
 TODO:
 
