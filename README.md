@@ -1,6 +1,6 @@
 # Quant EOD Stocks
 
-This is part of a Quant project based on real scenarios and Market data for 25,000+ stocks traded around the world.
+This is part of a Quant project based on real life scenarios and real Market Data for 25,000+ stocks traded around the world.
 
 > ### Features:
 
