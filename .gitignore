@@ -1,5 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gitignore
 .idea/vcs.xml
 .idea/encodings.xml
 .idea/inspectionProfiles/
@@ -7,5 +6,6 @@
 .idea/modules.xml
 .idea/quanteodstocks.iml
 .idea/workspace.xml
+.gitignore
 __pycache__
 .idea
