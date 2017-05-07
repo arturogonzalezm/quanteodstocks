@@ -1,0 +1,9 @@
+sqlalchemy
+pandas
+quandl
+nose-parameterized
+coverage
+coveralls
+tox
+tox-travis
+pyfakefs

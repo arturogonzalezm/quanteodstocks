@@ -1,8 +1,9 @@
-from setuptools import setup, find_packages  # Always prefer setuptools over distutils
-from os import path
 import io
+from os import path
 
-from quanteodstocks.version import __version__, __url__, __license__, __author__, __email__
+from setuptools import setup, find_packages  # Always prefer setuptools over distutils
+
+from quanteodstocks.eod.version import __version__, __url__, __license__, __author__, __email__
 
 here = path.abspath(path.dirname(__file__))
 

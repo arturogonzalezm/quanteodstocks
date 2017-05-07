@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/arturosolutions/quanteodstocks.svg?branch=master)](https://travis-ci.org/arturosolutions/quanteodstocks)
+[![Coverage Status](https://coveralls.io/repos/github/arturosolutions/quanteodstocks/badge.svg?branch=master)](https://coveralls.io/github/arturosolutions/quanteodstocks?branch=master)
 # Quant EOD Stocks
 
 This is part of a Quant project based on real life scenarios and real Market Data for 25,000+ stocks traded around the world.
