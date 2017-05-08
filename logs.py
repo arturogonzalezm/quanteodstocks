@@ -10,6 +10,8 @@ def init():
     logger = logging.getLogger()
     logger_database = logging.getLogger('DATABASE')
     logger_database.setLevel(min(level_mode, logging.INFO))
+    logger_sftp = logging.getLogger('SFTP')
+    logger_sftp.setLevel(min(level_mode, logging.INFO))
 
     formatter = logging.Formatter(
         '%(asctime)s%(name)s:%(levelname)s:%(message)s')

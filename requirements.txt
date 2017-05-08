@@ -7,3 +7,4 @@ coveralls
 tox
 tox-travis
 pyfakefs
+paramiko
